@@ -23,5 +23,4 @@ touch [filename.extension]
 rm [filename.extension]
 
 - Clear the terminal
-clear
-
+clear 
